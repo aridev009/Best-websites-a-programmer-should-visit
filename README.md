@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <img width="200" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
+    <img width="200" src="https://image.freepik.com/free-vector/you-are-awesome_26428-266.jpg" >
     <br>
 </h1>
 
@@ -462,6 +462,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [KudVenkat](https://www.youtube.com/user/kudvenkat/) : Microsoft .NET technologies and SQL Server tutorials.
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
+- [Code with Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww):Tutorials in Hindi Language for Indians
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
